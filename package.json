@@ -1,0 +1,20 @@
+{
+  "name": "tiktk-tts",
+  "version": "1.0.0",
+  "description": "TikTok TTS - 1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tts",
+    "tiktok",
+    "audio to text",
+    "text to speech"
+  ],
+  "author": "Flávio Conca",
+  "license": "ISC",
+  "dependencies": {
+    "tiktok-tts": "^1.1.17"
+  }
+}
