@@ -11,8 +11,8 @@ Português BR - Masculina	br_005
 
 ## Vozes Pack BR Especial
 
-Ivete Sangalo	            bp_female_ivete
-Ludmilla	                bp_female_ludmilla
-Lhays Macedo	            pt_female_lhays
-Laizza	                    pt_female_laizza
-Galvão Bueno	            pt_male_bueno
+Ivete Sangalo - bp_female_ivete
+Ludmilla - bp_female_ludmilla
+Lhays Macedo - pt_female_lhays
+Laizza - pt_female_laizza
+Galvão Bueno - pt_male_bueno
