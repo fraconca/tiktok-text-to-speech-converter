@@ -1,6 +1,6 @@
 # TikTok TTS
 
-Converter texto em fala usando as vozes do TikTok.
+Converter texto em fala (Text to Speech) usando as vozes do TikTok.
 
 ## Vozes Pack BR
 
